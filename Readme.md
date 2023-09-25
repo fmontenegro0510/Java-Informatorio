@@ -30,7 +30,7 @@ Cada carpeta representa un ejercicio práctico específico y contiene un directo
 
 
    ```shell
-   git clone https://github.com/tu-usuario/repositorio-ejercicios-java.git
+   git clone https://github.com/fmontenegro0510/Java-Informatorio.git
    
 2. Navega a la carpeta del ejercicio que deseas consultar.
 
