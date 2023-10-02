@@ -53,7 +53,8 @@ Si tienes preguntas o necesitas ayuda con alguno de los ejercicios, no dudes en 
 ¡Disfruta aprendiendo Java con estos ejercicios prácticos!
 
 ## Badges
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)[![Badge](https://img.shields.io/badge/JDK_Development_Kit-21-red)](https://www.oracle.com/java/technologies/downloads/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Badge](https://img.shields.io/badge/JDK_Development_Kit-21-red)](https://www.oracle.com/java/technologies/downloads/)
 [![Badge](https://img.shields.io/badge/Java_Platform_Standard_Edition-11-red)](https://jdk.java.net/java-se-ri/11)
 
 
