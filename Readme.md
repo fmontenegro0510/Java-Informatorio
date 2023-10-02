@@ -7,7 +7,7 @@ Este repositorio contiene una colección de ejercicios prácticos de Java diseñ
 
 ## Estructura del Repositorio
 
-El repositorio está organizado de la siguiente manera:
+El repositorio está organizado en ramas donde en cada rama se puede encontrar los archivos estructurados de la siguiente manera, con el punto del practico resuelto:
 - **Ejercicio1/**
   - *src/*
     - Main.java
@@ -54,7 +54,7 @@ Si tienes preguntas o necesitas ayuda con alguno de los ejercicios, no dudes en 
 
 ## Badges
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)[![Badge](https://img.shields.io/badge/JDK_Development_Kit-21-red)](https://www.oracle.com/java/technologies/downloads/)
-[![Badge](https://img.shields.io/badge/JDK_Development_Kit-21-red)](https://www.oracle.com/java/technologies/downloads/)
+[![Badge](https://img.shields.io/badge/Java_Platform_Standard_Edition-11-red)](https://jdk.java.net/java-se-ri/11)
 
 
 ## Authors
