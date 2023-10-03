@@ -13,5 +13,6 @@ public class SumaDeDosNumeros {
         System.out.println("Introduce otro numero");
         int num2 = sc.nextInt();
         System.out.println("La suma de los dos numeros es: " + (num1 + num2));
+        sc.close();
     }
 }
