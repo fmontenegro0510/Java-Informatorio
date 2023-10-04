@@ -50,7 +50,7 @@ Si tienes preguntas o necesitas ayuda con alguno de los ejercicios, no dudes en 
 [![Badge](https://img.shields.io/badge/Java_Platform_Standard_Edition-11-red)](https://jdk.java.net/java-se-ri/11)
 
 
-## Authors
+## Autor
 
 - [Francisco Montenegro](https://github.com/fmontenegro0510)
 
