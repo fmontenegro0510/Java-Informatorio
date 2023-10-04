@@ -8,18 +8,10 @@ Este repositorio contiene una colección de ejercicios prácticos de Java diseñ
 ## Estructura del Repositorio
 
 El repositorio está organizado en ramas donde en cada rama se puede encontrar los archivos estructurados de la siguiente manera, con el punto del practico resuelto:
-- **Ejercicio1/**
-  - *src/*
-    - Main.java
+- **GuiaPracticaXX/**
+  - *Nivel(Iniciado/Padawan/Caballero/Maestro)/*
+    - Numero-Problema
     - ...
-  - **README.md**
-  
-- **Ejercicio2/**
-  - *src/*
-    - Main.java
-    - ...
-    - **README.md**
-
 - **etc...**
 
 Cada carpeta representa un ejercicio práctico específico y contiene un directorio `src/` que incluye el código fuente de la solución y un archivo `README.md` que proporciona instrucciones y detalles sobre el ejercicio.
