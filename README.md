@@ -10,7 +10,8 @@ Este repositorio contiene una colección de ejercicios prácticos de Java diseñ
 El repositorio está organizado en ramas donde en cada rama se puede encontrar los archivos estructurados de la siguiente manera, con el punto del practico resuelto:
 - **GuiaPracticaXX/**
   - *Nivel(Iniciado/Padawan/Caballero/Maestro)/*
-    - Numero-Problema
+    - Numero-Problema Nombre-Problema
+      - Nombre-Problema.java
     - ...
 - **etc...**
 
