@@ -10,7 +10,8 @@ Este repositorio contiene una colección de ejercicios prácticos de Java diseñ
 El repositorio está organizado en ramas donde en cada rama se puede encontrar los archivos estructurados de la siguiente manera, con el punto del practico resuelto:
 - **GuiaPracticaXX/**
   - *Nivel(Iniciado/Padawan/Caballero/Maestro)/*
-    - Numero-Problema
+    - Numero-Problema Nombre-Problema
+      - Nombre-Problema.java
     - ...
 - **etc...**
 
@@ -50,7 +51,7 @@ Si tienes preguntas o necesitas ayuda con alguno de los ejercicios, no dudes en 
 [![Badge](https://img.shields.io/badge/Java_Platform_Standard_Edition-11-red)](https://jdk.java.net/java-se-ri/11)
 
 
-## Authors
+## Autor
 
 - [Francisco Montenegro](https://github.com/fmontenegro0510)
 
