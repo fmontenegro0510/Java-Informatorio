@@ -22,8 +22,10 @@ public class DameLosMayoresYLosMenoresBis {
                 numMin = arr[i];
             }
         }
+        
         System.out.println("");
         System.out.println("El numero mayor es: " + numMax);
         System.out.println("El numero menor es: " + numMin);
+        
     }
 }
